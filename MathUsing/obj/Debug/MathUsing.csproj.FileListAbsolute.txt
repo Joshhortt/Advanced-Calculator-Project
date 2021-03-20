@@ -1,0 +1,19 @@
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\bin\Debug\MathUsing.exe.config
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\bin\Debug\MathUsing.exe
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\bin\Debug\MathUsing.pdb
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\obj\Debug\MathUsing.csprojResolveAssemblyReference.cache
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\obj\Debug\MathUsing.Form1.resources
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\obj\Debug\MathUsing.Properties.Resources.resources
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\obj\Debug\MathUsing.csproj.GenerateResource.Cache
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\obj\Debug\MathUsing.exe
+C:\Users\S M\Documents\Visual Studio 2015\Projects\MathUsing-master\MathUsing\obj\Debug\MathUsing.pdb
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\bin\Debug\MathUsing.exe.config
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\bin\Debug\MathUsing.exe
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\bin\Debug\MathUsing.pdb
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\obj\Debug\MathUsing.csprojAssemblyReference.cache
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\obj\Debug\MathUsing.Form1.resources
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\obj\Debug\MathUsing.Properties.Resources.resources
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\obj\Debug\MathUsing.csproj.GenerateResource.cache
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\obj\Debug\MathUsing.csproj.CoreCompileInputs.cache
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\obj\Debug\MathUsing.exe
+C:\Users\josec\Source\Repos\AdvancedCalculator\MathUsing\obj\Debug\MathUsing.pdb
